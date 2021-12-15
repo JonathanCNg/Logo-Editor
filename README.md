@@ -5,7 +5,7 @@ https://youtu.be/nMJVPpL6l_Q
 
 ## Interface
 
-<img src="Files/img.png"/>
+<img src="Files/img.png"/ height="400">
 
 ## Sample Logos
 

@@ -13,3 +13,7 @@ https://youtu.be/nMJVPpL6l_Q
 <img src="Files/Logo6721-18237.png"/>
 <img src="Files/Logo6721-175550.png"/>
 <img src="Files/Logo6921-215313.jpg"/>
+
+## Tools Used
+1. C++ (https://www.cplusplus.com/)
+2. SFML (https://www.sfml-dev.org/)

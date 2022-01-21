@@ -5,7 +5,7 @@ https://youtu.be/nMJVPpL6l_Q
 
 ## Interface
 
-<img src="Files/seaside-sample.gif" height="400"/>
+<img src="Files/logomaker-sample.gif" height="400"/>
 
 ## Sample Logos
 

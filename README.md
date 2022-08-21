@@ -1,6 +1,6 @@
-# Logo-Maker
+# Logo-Editor
 
-Logo Maker is a C++ and SFML program allowing users to quickly make beautiful logos. 
+Logo Editor is a C++ and SFML program allowing users to quickly make beautiful logos. 
 
 ## 3 Min Features and Demo Runthrough: 
 
